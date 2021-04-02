@@ -1,5 +1,8 @@
 ## Clasificar las 10 palabras principales del Quijote
 
+Esta alternativa esta realizada en Nodejs y y no tiene ninguna implementacion
+de FrontEnd, solo por linea de comandos.
+
 una vez descargado el proyecto
 
 - npm install
